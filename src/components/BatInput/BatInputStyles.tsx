@@ -5,9 +5,10 @@ export const styles = StyleSheet.create({
     width: "100%",
     backgroundColor: "#E5BF3C",
     color: "#000",
-    fontSize: 20,
-    height: 40,
-    borderRadius: 5,
+    fontSize: 22,
+    fontWeight: "bold",
+    height: 42,
+    borderRadius: 10,
     padding: 10,
     textAlign: "center",
   }

@@ -1,0 +1,46 @@
+import { StyleSheet } from 'react-native';
+
+export const styles = StyleSheet.create({
+  button: {
+    alignItems: 'center',
+    width: "100%",
+    justifyContent: 'center',
+    paddingVertical: 12,
+    paddingHorizontal: 32,
+    borderRadius: 10,
+    borderColor: "#FFF",
+    borderWidth: 1,
+    elevation: 3,
+    marginTop: 15,
+    backgroundColor: "black",
+    boxShadow: "0px 4px 14px rgba(0, 0, 0, 0.322)",
+  },
+  button2: {
+    alignItems: 'center',
+    width: "100%",
+    justifyContent: 'center',
+    paddingVertical: 12,
+    paddingHorizontal: 32,
+    borderRadius: 10,
+    borderColor: "#FFF",
+    borderWidth: 1,
+    elevation: 3,
+    marginTop: 15,
+    backgroundColor: "black",
+  },
+  inputContainer: {
+    width: "100%",
+    alignItems: "center",
+    justifyContent: "center",
+    borderColor: "#fff",
+    borderWidth: 2,
+    borderRadius: 10,
+  },
+  text: {
+    fontSize: 16,
+    lineHeight: 21,
+    fontWeight: 'bold',
+    letterSpacing: 0.25,
+    color: '#E5BF3C',
+  },
+});

@@ -20,13 +20,10 @@ const styles = StyleSheet.create({
     paddingBottom: 10,
     backgroundColor: "#4d4d4d",
   },
-  inputContainer: {
+  buttonContainer: {
     width: "80%",
     alignItems: "center",
     justifyContent: "center",
-    borderColor: "#fff",
-    borderWidth: 2,
-    borderRadius: 10,
   }
 });
 
